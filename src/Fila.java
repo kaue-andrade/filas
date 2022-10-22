@@ -95,4 +95,46 @@ public class Fila {
         System.out.println(elementos);
 
     }
+
+    // Metódos getters e setters
+
+    public int getTamanho() {
+        return tamanho;
+    }
+
+    public void setTamanho(int tamanho) {
+        this.tamanho = tamanho;
+    }
+
+    public int getPrimeiro() {
+        return primeiro;
+    }
+
+    public void setPrimeiro(int primeiro) {
+        this.primeiro = primeiro;
+    }
+
+    public int getUltimo() {
+        return ultimo;
+    }
+
+    public void setUltimo(int ultimo) {
+        this.ultimo = ultimo;
+    }
+
+    public int[] getFila() {
+        return fila;
+    }
+
+    public void setFila(int[] fila) {
+        this.fila = fila;
+    }
+
+    public int getQuantidade_elementos() {
+        return quantidade_elementos;
+    }
+
+    public void setQuantidade_elementos(int quantidade_elementos) {
+        this.quantidade_elementos = quantidade_elementos;
+    }
 }
