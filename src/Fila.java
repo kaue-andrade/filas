@@ -1,4 +1,12 @@
 public class Fila {
+
+    // Alunos: 
+    // Ana Clara Jesus Santana;
+    // Antonio Carlos Borges de Souza;
+    // Antônio Leopoldo França Filho;
+    // Ítalo Ricardo de Andrade Silva;
+    // Kauê Andrade dos Santos.
+
     // Escreva um algoritmo que implemente uma fila de números inteiros
     // em um vetor alocado estaticamente. O módulo deve conter as funções
     // criafila,  colocanafila,  tiradafila,  filavazia  e  filacheia.
