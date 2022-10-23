@@ -14,7 +14,7 @@ public class Fila {
     // e o fim da fila devem ser variáveis globais do módulo.
 
     // Criação das variáveis PRIVADAS e INTEIRAS
-    private int tamanho = 10;
+    private int tamanho = 6;
     private int primeiro;
     private int ultimo;
     private int fila[];
@@ -84,7 +84,7 @@ public class Fila {
     }
 
     public void elementosExcluidos(){
-        System.out.println("\nQuestão 3: ");
+        System.out.println("\nQuestão 3 - Elemento excluído: ");
         System.out.println("\nElemento excluído: " + fila[primeiro]);
     }
 

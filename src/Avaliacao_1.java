@@ -8,7 +8,6 @@ public class Avaliacao_1 {
         // Ítalo Ricardo de Andrade Silva;
         // Kauê Andrade dos Santos.
 
-
         // Escreva um algoritmo que implemente uma fila de números inteiros
         // em um vetor alocado estaticamente. O módulo deve conter as funções
         // criafila,  colocanafila,  tiradafila,  filavazia  e  filacheia.
